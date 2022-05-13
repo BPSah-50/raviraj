@@ -24,15 +24,9 @@
         Email: <input type="text" name="name" placeholder="Please enter your email" id=""><br/><br/>
         Password: <input type="password" name="password" placeholder="Please enter your password" id="">
         <input type="button" value="Submit">
-<<<<<<< HEAD
-             
-	    <h1> RAVIRAJ </h1>
-=======
 		
 		<h1>Shah</h1>
-		<h1>Shah12</h1>
 
->>>>>>> fccfd39f6a048895794f93d04409acfef8ff167c
     </div>
 </body>
 </html>
